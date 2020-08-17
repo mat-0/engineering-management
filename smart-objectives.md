@@ -26,6 +26,6 @@ Alternative acronum words:
 
 - **S**: Specific, Strategic
 - **M**: Measurable, Motivating
-- **A**: Actionable, Achieveable, Assignable, Attainable, Agreed, Ambitious, Aligned
+- **A**: Actionable, Achievable, Assignable, Attainable, Agreed, Ambitious, Aligned
 - **R**: Relevant, Realistic, Resourced, Reasonable, Results-based
 - **T**: Timely, Timeframe, Time-boxed, Trackable, Testable

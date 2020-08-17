@@ -18,5 +18,3 @@ Once complete share a copy of this document with your line manager.
 - Weaknesses: negative aspects, things under your control, but things that can be improved. 
 - Opportunities: Positive external conditions, not under your control, areas in which you can take advantage. 
 - Threats: Negative external conditions, not under your control, but the effects of which you may be able to mitigate or reduce. 
-
-

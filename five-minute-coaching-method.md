@@ -10,14 +10,10 @@
 
 ## SET THE SCENE 
 
-
 Where would you like to sit (gesturing around the space)? 
-
- 
 
 And where would you like me to sit? 
 
- 
 
 Let me explain a little about this coaching. My Job is to help you to explore your issue, work out what you want and how you are going to achieve it. I won’t be offering you idea or suggestions as to how to do it. 
 
