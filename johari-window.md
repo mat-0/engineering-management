@@ -23,3 +23,61 @@ In the exercise, subjects pick several adjectives from a list, choosing ones the
 
 > Adjectives that neither subject nor peers selected go here. They represent subject's behaviors or motives that no one participating recognizes - either because they do not apply or because of collective ignorance of these traits.  
 
+
+#### Adjectives to use
+
+ADJECTIVES TO USE
+• able
+• accepting
+• adaptable
+• bold
+• brave
+• calm
+• caring
+• cheerful
+• clever
+• complex
+• confident
+• dependable 
+• dignified
+• empathetic 
+• energetic
+• extroverted 
+• friendly
+• giving
+• happy
+• helpful
+• idealistic
+• independent 
+• ingenious
+• intelligent
+• introverted
+• kind
+• knowledgeable 
+• logical
+• loving
+• mature
+• modest
+• nervous
+• observant
+• organized
+• patient
+• powerful
+• proud
+• quiet
+• reflective
+• relaxed
+• religious
+• responsive
+• searching
+• self-assertive 
+• self-conscious 
+• sensible
+• sentimental
+• shy
+• silly
+• spontaneous 
+• sympathetic
+• tense
+• trustworthy
+• warm
