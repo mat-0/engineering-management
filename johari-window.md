@@ -1,5 +1,5 @@
 
-# THE JOHARI WINDOW 
+# The Johari Window 
 
 The Johari window is a technique that helps people better understand their relationship with themselves and others 
 
