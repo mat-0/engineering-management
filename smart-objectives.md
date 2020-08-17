@@ -1,18 +1,14 @@
-# SMART criteria
+# SMART Objectives
 
 SMART is a mnemonic/acronym, giving criteria to guide in the setting of objectives, for example in project management, performance monitoring, and personal development. 
 
 SMART:
 
-  * **Specific**: target one area clearly and precisely.
-
-  * **Measurable**: quantify progress toward success by using metrics.
-
-  * **Actionable**: ready to start and possible to accomplish.
-
-  * **Relevant**: connected to what else is being done, considered, and resourced.
-
-  * **Timely**: occurring at a favorable or useful time and opportune.
+- **Specific**: target one area clearly and precisely.
+- **Measurable**: quantify progress toward success by using metrics.
+- **Actionable**: ready to start and possible to accomplish.
+- **Relevant**: connected to what else is being done, considered, and resourced.
+- **Timely**: occurring at a favorable or useful time and opportune.
 
 
 The principal advantage of SMART objectives is that they are easier to understand and to know when they have been done. 
