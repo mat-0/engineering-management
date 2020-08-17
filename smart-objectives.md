@@ -19,18 +19,13 @@ SMART criteria are commonly associated with Peter Drucker's management by object
 
 Often the term SMART Goals and SMART Objectives will surface:
 
-  * SMART Goals are the distinct purpose that is to be anticipated from the assignment or project. 
-
-  * SMART Objectives are the determined steps that will direct full completion of the project goals.
+- SMART Goals are the distinct purpose that is to be anticipated from the assignment or project. 
+- SMART Objectives are the determined steps that will direct full completion of the project goals.
 
 Alternative acronum words:
 
-  * **S**: Specific, Strategic
-
-  * **M**: Measurable, Motivating
-
-  * **A**: Actionable, Achieveable, Assignable, Attainable, Agreed, Ambitious, Aligned
-
-  * **R**: Relevant, Realistic, Resourced, Reasonable, Results-based
-
-  * **T**: Timely, Timeframe, Time-boxed, Trackable, Testable
+- **S**: Specific, Strategic
+- **M**: Measurable, Motivating
+- **A**: Actionable, Achieveable, Assignable, Attainable, Agreed, Ambitious, Aligned
+- **R**: Relevant, Realistic, Resourced, Reasonable, Results-based
+- **T**: Timely, Timeframe, Time-boxed, Trackable, Testable
