@@ -10,9 +10,10 @@ A collection of tools, models, resources and exercises to support leadership, li
 4. [Four stages of competence](/four-stages-of-competence.md)
 5. [Johari window](/johari-window.md)
 6. [Monkey management](/monkey-management.md)
-7. [Smart objectives](/smart-objectives.md)
-8. [Swot analysis](/swot-analysis.md)
-9. [Wheel of life](/wheel-of-life.md)
+7. [One minute manager meets the monkey](/one-minute-manager-meets-the-monkey.md)
+8. [Smart objectives](/smart-objectives.md)
+9. [Swot analysis](/swot-analysis.md)
+10. [Wheel of life](/wheel-of-life.md)
 
 ## Communications
 
