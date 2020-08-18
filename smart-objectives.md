@@ -10,8 +10,7 @@ SMART is a mnemonic/acronym, giving criteria to guide in the setting of objectiv
 - **Relevant**: connected to what else is being done, considered, and resourced.
 - **Timely**: occurring at a favorable or useful time and opportune.
 
-
-The principal advantage of SMART objectives is that they are easier to understand and to know when they have been done. 
+The principal advantage of SMART objectives is that they are easier to understand and to know when they have been done.
 
 These criteria don't say that all objectives must be quantified on all levels of management. In certain situations it is not realistic to attempt quantification, particularly in staff middle-management positions. Practicing managers and corporations can lose the benefit of a more abstract objective in order to gain quantification. It is the combination of the objective and its action plan that is really important. Therefore serious management should focus on these twins and not just the objective.
 
