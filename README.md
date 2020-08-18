@@ -14,9 +14,7 @@ A collection of tools, models, resources and exercises to support leadership, li
 8. [Swot analysis](/swot-analysis.md)
 9. [Wheel of life](/wheel-of-life.md)
 
-
 ## Communications
 
 1. [BLUF - Bottom Line Up Front](/bluf.md)
 2. [No Hello - Don't just say hello in chat](/nohello.md)
-3. 
