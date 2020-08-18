@@ -1,8 +1,8 @@
 # SMART Objectives
 
-SMART is a mnemonic/acronym, giving criteria to guide in the setting of objectives, for example in project management, performance monitoring, and personal development. 
+SMART is a mnemonic/acronym, giving criteria to guide in the setting of objectives, for example in project management, performance monitoring, and personal development.
 
-SMART:
+## Smart
 
 - **Specific**: target one area clearly and precisely.
 - **Measurable**: quantify progress toward success by using metrics.
@@ -19,7 +19,7 @@ SMART criteria are commonly associated with Peter Drucker's management by object
 
 Often the term SMART Goals and SMART Objectives will surface:
 
-- SMART Goals are the distinct purpose that is to be anticipated from the assignment or project. 
+- SMART Goals are the distinct purpose that is to be anticipated from the assignment or project.
 - SMART Objectives are the determined steps that will direct full completion of the project goals.
 
 Alternative acronum words:

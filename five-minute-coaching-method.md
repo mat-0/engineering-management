@@ -2,22 +2,20 @@
 
 ## THE PRINCIPLES 
 
-- Stick with the process 
-- The coachee has all the answers 
-- Ownership is with the coachee 
-- You drive the coaching 
-- You create and manage the setting. 
+- Stick with the process
+- The coachee has all the answers
+- Ownership is with the coachee
+- You drive the coaching
+- You create and manage the setting.
 
-## SET THE SCENE 
+## SET THE SCENE
 
-Where would you like to sit (gesturing around the space)? 
+Where would you like to sit (gesturing around the space)?
 
-And where would you like me to sit? 
+And where would you like me to sit?
 
 
 Let me explain a little about this coaching. My Job is to help you to explore your issue, work out what you want and how you are going to achieve it. I won’t be offering you idea or suggestions as to how to do it. 
-
- 
 
 You’ll soon find that this isn’t like a normal conversation or even any coaching session you may have had before. I won’t look at you much, and I won’t make any suggestions or comments about what you say 
 
