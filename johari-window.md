@@ -23,7 +23,7 @@ In the exercise, subjects pick several adjectives from a list, choosing ones the
 
 > Adjectives that neither subject nor peers selected go here. They represent subject's behaviors or motives that no one participating recognizes - either because they do not apply or because of collective ignorance of these traits.  
 
-!["Johari Window"](/images/johari-window.png)
+!["Johari Window"](/images/johari-window-grid.png)
 
 
 #### Adjectives to use
