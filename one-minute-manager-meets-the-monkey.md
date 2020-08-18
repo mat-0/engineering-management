@@ -1,5 +1,7 @@
 # The four rules of monkey management
 
+[see also monkey management](/monkey-management.md)
+
 ## Rule 1.
 
 Describe the Monkey: the dialog must not end until appropriate “next moves” have been identified and specified.
