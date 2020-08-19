@@ -24,4 +24,4 @@ A collection of tools, models, resources and exercises to support leadership, li
 
 ## Scrum
 
-1. [Sprint review questions](/sprint-review-questions.md
+1. [Sprint review questions](/sprint-review-questions.md)
