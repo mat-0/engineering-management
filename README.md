@@ -21,3 +21,7 @@ A collection of tools, models, resources and exercises to support leadership, li
 
 1. [BLUF - Bottom Line Up Front](/bluf.md)
 2. [No Hello - Don't just say hello in chat](/nohello.md)
+
+## Scrum
+
+1. [Sprint review questions](/sprint-review-questions.md
