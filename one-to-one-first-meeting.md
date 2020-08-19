@@ -2,7 +2,7 @@
 
 A set of questions to ask at a first one-to-one with a new direct report.
 
-- What do you like to do outside of work? 
+- What do you like to do outside of work?
 - What motivates you the most?
 - What kind of projects are you most excited to - work on?
 - What is your preferred method of communication?
