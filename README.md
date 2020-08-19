@@ -4,7 +4,7 @@ A collection of tools, models, resources, and exercises to support leadership, l
 
 ## Contents
 
-1. [Dreyfus model](/dreyfus-mode.md)
+1. [Dreyfus model](/dreyfus-model.md)
 2. [Energy investment model](/energy-investment-model.md)
 3. [Five minute coaching method](/five-minute-coaching-method.md)
 4. [Four stages of competence](/four-stages-of-competence.md)
