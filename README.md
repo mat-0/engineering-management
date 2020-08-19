@@ -1,6 +1,6 @@
 # People Leadership Documentation
 
-A collection of tools, models, resources and exercises to support leadership, line-management, personal development in the work place.
+A collection of tools, models, resources, and exercises to support leadership, line-management, and personal development in the work place.
 
 ## Contents
 
