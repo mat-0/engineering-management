@@ -24,4 +24,7 @@ A collection of tools, models, resources, and exercises to support leadership, l
 
 ## Scrum
 
-1. [Sprint review questions](/sprint-review-questions.md)
+1. [Agile manifesto](agile-manifesto.md)
+2. [New scrum team checklist](/new-scrum-team-checklist.md)
+3. [Overview of scrum](/scrum-overview.md)
+4. [Sprint review questions](/sprint-review-questions.md)
