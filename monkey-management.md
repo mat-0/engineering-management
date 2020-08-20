@@ -1,18 +1,18 @@
 # Monkey management
 
-Monkey management is a structured approach to preventing problems from getting delegated upward. in 1974, William oncken, Jr., and Donald l. Wass published an article in Harvard Business Review that referred to unsolved problems as ‘monkeys’ and the problem of managers unwittingly reducing their effectiveness by taking ownership of monkeys that rightfully need to stay with the employee.
+Monkey management is a structured approach to preventing problems from getting delegated upward. in 1974, William Oncken, Jr., and Donald l. Wass published an article in Harvard Business Review that referred to unsolved problems as ‘monkeys’ and the problem of managers unwittingly reducing their effectiveness by taking ownership of monkeys that rightfully need to stay with the employee.
 
-## Why use it?
+## Why use it
 
 A manager’s job is to develop employees, create opportunities, remove obstacles, clarify priorities, etc. – things that are important, but not urgent. Problems tend to be urgent. When managers take problems over from employees, important issues get delayed and the organization as a whole suffers.
 
-## What factors are critical for success?
+## What factors are critical for success
 
 - Recognition that a problem is being delegated upward
 - An understanding by the manager that his or her job is to get problems solved, not solve problems
 - Employees who are both willing and able to solve problems
 
-## How do you use it?
+## How do you use it
 
 | Step  |  Detail |
 |---|---|
@@ -26,5 +26,5 @@ Benefits of proper monkey management include:
 
 1) effective use of manager’s time
 2) increased employee problem-solving skills
-3) increased organizational problem-solving capacity 
+3) increased organizational problem-solving capacity
 4) greater employee job satisfaction

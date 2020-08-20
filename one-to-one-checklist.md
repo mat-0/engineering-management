@@ -24,16 +24,16 @@ You’ll have to do a bit of homework prior to every one on one, especially if y
 
 3. Set an agenda. You have to understand what’s going on within your team so that you can use one on ones effectively. One on ones are a collaborative effort and agenda items will be based on concerns from you and from your employee. Ask one of these questions at least a day before the meeting:
 
-- “What do you want to discuss in our next one on one meeting?”
-- “What challenges are you facing?”
+   - “What do you want to discuss in our next one on one meeting?”
+   - “What challenges are you facing?”
 
 4. Create a plan. Managers, it’s up to you to help employees bridge the gap between where they are and where they could be. Think about the behaviors of your employee and what could be standing in their way of success.
 
 ## The heart of the meeting
 
-1. Begin with a check-in. How are the both of you feeling? This can be one word or a phrase or a conversation. If your employee doesn’t feel safe, they will say what they think you want to hear. Build trust by sharing how you feel first. The more authentic and vulnerable, the better. 
+1. Begin with a check-in. How are the both of you feeling? This can be one word or a phrase or a conversation. If your employee doesn’t feel safe, they will say what they think you want to hear. Build trust by sharing how you feel first. The more authentic and vulnerable, the better.
 
-2. Get updates on employee objectives. These are action items that were set in the previous one on one. They should include tasks that support the employee’s quarterly objectives. 
+2. Get updates on employee objectives. These are action items that were set in the previous one on one. They should include tasks that support the employee’s quarterly objectives.
 
 3. Get personal (sort of). Your people are so much more valuable than the work they produce. Ask them how they’re doing outside of work and check in with them on a personal level. It’s helpful to take work out of the equation sometimes.
 
@@ -53,4 +53,4 @@ You’ll have to do a bit of homework prior to every one on one, especially if y
 
 11. Follow up. One on ones only work when they’re ongoing and consistent. Keep this commitment and you will create effective feedback loops and help build stronger connections with your team.
 
-One on ones are more than just meetings, they’re one of your most important productivity tools. Use these meetings to help your employees grow, learn how to use their strengths, and live more fulfilled lives at work and beyond. 
+One on ones are more than just meetings, they’re one of your most important productivity tools. Use these meetings to help your employees grow, learn how to use their strengths, and live more fulfilled lives at work and beyond.
