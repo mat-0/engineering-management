@@ -2,8 +2,7 @@
 
 Here are seven questions to ask during each coaching session.
 
-> Taken from the book 
- "The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever" by Michael Bungay Stanier
+> Taken from the book "The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever" by Michael Bungay Stanier
 
 Coaching should be simple and question-oriented: spend more time listening and less time talking. There is a reason we have two ears and one mouth - we need to listen twice as much as we talk.
 

@@ -2,8 +2,7 @@
 
 To build an effective new habit, you need five essential components: a reason, a trigger, a micro-habit, effective practice, and a plan.
 
- > Taken from the book 
- "The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever" by Michael Bungay Stanier
+ > Taken from the book "The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever" by Michael Bungay Stanier
 
 - A reason
 - A trigger
