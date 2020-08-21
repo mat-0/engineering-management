@@ -1,26 +1,24 @@
-## How to contribute
+# How to contribute
 
 I like to encourage you to contribute to the repository.
 This should be as easy as possible for you but there are a few things to consider when contributing.
 The following guidelines for contribution should be followed if you want to submit an issue, bug or feature request.
 
-### How to prepare
+## How to prepare
 
-* You need a [GitHub account](https://github.com/signup/free)
-* Submit an [issue ticket](https://github.com/MatBenfield/people-leadership-documentation
-/issues) for your issue if there is not one already.
-	* Describe the issue and include steps to reproduce if it's a bug.
-	* Ensure to mention the earliest version that you know is affected.
+- You need a [GitHub account](https://github.com/signup/free)
+- Submit an [issue ticket](/people-leadership-documentation/issues) for your issue if there is not one already.
+  - Describe the issue and include steps to reproduce if it's a bug.
+  - Ensure to mention the earliest version that you know is affected.
 
 If the issue already exists at a +1 comment to track the issues progress and alert me that it's impacting more than one user.
 Please go ahead and add your info as outlined below.
 
 ### Using the issue tracker
 
-The issue tracker is the preferred channel for [bug reports](#bugs) and [features requests](#features). Issues can also be raised by tweeting @ChelseaStats - favourited tweets end up here as issues too.
+The issue tracker is the preferred channel for [bug reports](#bugs) and [features requests](#features).
 
-<a name="bugs"></a>
-### Bug reports
+## Bug reports
 
 A bug is a _demonstrable problem_ that is caused by the code on any of our websites.
 Good bug reports are extremely helpful - thank you!
@@ -59,15 +57,12 @@ Example:
 > causing the bug, and potential solutions (and your opinions on their
 > merits).
 
-
-<a name="features"></a>
-### Feature requests
+## Feature requests
 
 Feature requests are welcome. But take a moment to find out whether your idea
 fits with the scope and aims of the project. It's up to *you* to make a strong
 case to convince the project's developers of the merits of this feature. Please
 provide as much detail and context as possible.
-
 
 ## Making Trivial Changes
 
@@ -77,8 +72,8 @@ Please raise an issue for any typos on the site with a link to the offending pag
 
 ### Documentation
 
-For changes of a trivial nature to comments and documentation, start the first line of an issue with '(doc)' 
-
+For changes of a trivial nature to comments and documentation, start the first line of an issue with '(doc)'
 
 ## Additional Resources
-* [General GitHub documentation](http://help.github.com/)
+
+- [General GitHub documentation](http://help.github.com/)
