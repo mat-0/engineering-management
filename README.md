@@ -17,11 +17,12 @@ A collection of resources be it tools, models, or exercises to support leadershi
 9. [One minute manager meets the monkey](/one-minute-manager-meets-the-monkey.md)
 10. [One to one Checklist](one-to-one-checklist.md)
 11. [One to one - first meeting](/one-to-one-first-meeting.md)
-12. [Seven coaching questions](/seven-coaching-questions.md)
-13. [Smart objectives](/smart-objectives.md)
-14. [Swot analysis](/swot-analysis.md)
-15. [Ten key attributes of a manager](/ten-key-attributes-of-a-manager.md)
-16. [Wheel of life](/wheel-of-life.md)
+12. [Pestle analysis](/pestle-analysis.md)
+13. [Seven coaching questions](/seven-coaching-questions.md)
+14. [Smart objectives](/smart-objectives.md)
+15. [Swot analysis](/swot-analysis.md)
+16. [Ten key attributes of a manager](/ten-key-attributes-of-a-manager.md)
+17. [Wheel of life](/wheel-of-life.md)
 
 ## Communications
 
