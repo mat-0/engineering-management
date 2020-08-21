@@ -1,1 +1,2 @@
-#
+- name: Labeler
+  uses: actions/labeler@v3-preview
