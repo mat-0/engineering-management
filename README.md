@@ -6,21 +6,22 @@ A collection of resources be it tools, models, or exercises to support leadershi
 
 ## Contents
 
-1. [Dreyfus model](/dreyfus-model.md)
-2. [Energy investment model](/energy-investment-model.md)
-3. [Five minute coaching method](/five-minute-coaching-method.md)
-4. [Five step coaching habit](/five-step-coaching-habit.md)
-5. [Four stages of competence](/four-stages-of-competence.md)
-6. [Johari window](/johari-window.md)
-7. [Monkey management](/monkey-management.md)
-8. [One minute manager meets the monkey](/one-minute-manager-meets-the-monkey.md)
-9. [One to one Checklist](one-to-one-checklist.md)
-10. [One to one - first meeting](/one-to-one-first-meeting.md)
-11. [Seven coaching questions](/seven-coaching-questions.md)
-12. [Smart objectives](/smart-objectives.md)
-13. [Swot analysis](/swot-analysis.md)
-14. [Ten key attributes of a manager](/ten-key-attributes-of-a-manager.md)
-15. [Wheel of life](/wheel-of-life.md)
+1. [Drama Triangle](/drama-triangle.md)
+2. [Dreyfus model](/dreyfus-model.md)
+3. [Energy investment model](/energy-investment-model.md)
+4. [Five minute coaching method](/five-minute-coaching-method.md)
+5. [Five step coaching habit](/five-step-coaching-habit.md)
+6. [Four stages of competence](/four-stages-of-competence.md)
+7. [Johari window](/johari-window.md)
+8. [Monkey management](/monkey-management.md)
+9. [One minute manager meets the monkey](/one-minute-manager-meets-the-monkey.md)
+10. [One to one Checklist](one-to-one-checklist.md)
+11. [One to one - first meeting](/one-to-one-first-meeting.md)
+12. [Seven coaching questions](/seven-coaching-questions.md)
+13. [Smart objectives](/smart-objectives.md)
+14. [Swot analysis](/swot-analysis.md)
+15. [Ten key attributes of a manager](/ten-key-attributes-of-a-manager.md)
+16. [Wheel of life](/wheel-of-life.md)
 
 ## Communications
 
