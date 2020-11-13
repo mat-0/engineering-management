@@ -8,7 +8,7 @@ SMART is a mnemonic/acronym, giving criteria to guide in the setting of objectiv
 - **Measurable**: quantify progress toward success by using metrics.
 - **Actionable**: ready to start and possible to accomplish.
 - **Relevant**: connected to what else is being done, considered, and resourced.
-- **Timely**: occurring at a favorable or useful time and opportune.
+- **Timely**: occurring at a favourable or useful time and opportune.
 
 The principal advantage of SMART objectives is that they are easier to understand and to know when they have been done.
 
