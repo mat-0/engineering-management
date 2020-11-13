@@ -42,7 +42,7 @@ Build a charter or plan using the following table structure, negotiate and discu
 
 | ID | Description | Priority | Time box |
 |---|---|---|---|
-| 1| **Explore** the chair **With** different sizes of people to **Discover*** related to whether the seat may be too narrow | medium| 1hrs |
+| 1| **Explore** the chair **With** different sizes of people to **Discover** related to whether the seat may be too narrow | medium| 1hrs |
 | 2| **Explore** the chair seat **With** people wearing different clothes to **Discover** information related to whether the seat may be too narrow | high | 2hrs |
 
 The charter should include all test ideas, but this does not mean all need to be run - focus on risks and priorities. Keep the charter up to date and include retests (typically with lower priority and time box).
