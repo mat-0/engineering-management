@@ -29,6 +29,7 @@ A collection of resources be it tools, models, or exercises to support leadershi
 
 1. [BLUF - Bottom Line Up Front](/bluf.md)
 2. [No Hello - Don't just say hello in chat](/nohello.md)
+3. (coming soon) [Asychronous](/asychronous.md)
 
 ## Scrum
 
@@ -52,3 +53,6 @@ A collection of resources be it tools, models, or exercises to support leadershi
 10. (coming soon) [Metrics](/testing/testing-metrics.md)
 11. (coming soon) [Tools](/testing/testing-tools.md)
 
+## Technology Strategy
+
+1. (coming soon) []()
