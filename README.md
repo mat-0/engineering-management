@@ -36,3 +36,12 @@ A collection of resources be it tools, models, or exercises to support leadershi
 2. [New scrum team checklist](/new-scrum-team-checklist.md)
 3. [Overview of scrum](/scrum-overview.md)
 4. [Sprint review questions](/sprint-review-questions.md)
+
+## Testing
+
+1. [Exploratory testing](/testing/testing-exploratory.md)
+2. [Automated testing](/testing/testing-automation.md)
+3. [Performance testing](/testing/testing-performance.md)
+4. [Accessibility testing](/testing/testing-accessibility.md)
+5. [Browser testing](/testing/testing-browser.md)
+6. [API testing](/testing/testing-api.md)
