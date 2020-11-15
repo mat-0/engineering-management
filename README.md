@@ -29,7 +29,8 @@ A collection of resources be it tools, models, or exercises to support leadershi
 
 1. [BLUF - Bottom Line Up Front](/bluf.md)
 2. [No Hello - Don't just say hello in chat](/nohello.md)
-3. (coming soon) [Asychronous](/asychronous.md)
+3. [Leadership is Language](/leadersrhip-is-language.md)
+4. (coming soon) [Asychronous](/asychronous.md)
 
 ## Scrum
 
