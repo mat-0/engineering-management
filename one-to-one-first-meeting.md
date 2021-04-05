@@ -6,7 +6,7 @@ A set of questions to ask at a first one-to-one with a new direct report or new 
 - What do you like to do outside of work?
 - What motivates you the most?
 - What kind of projects are you most excited to - work on?
-- what kind of technology are you most interested in?
+- What kind of technology are you most interested in?
 - What is your preferred medium/method of communication?
 - How do you prefer to receive recognition – publicly or privately?
 - When is your birthday?

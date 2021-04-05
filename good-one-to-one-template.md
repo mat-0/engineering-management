@@ -13,13 +13,17 @@ Managers and employees should have a one to one conversation on at least a month
 
 ## Obstacles
 
-* What might get in your way of meeting your goals ( time , resources, knowledge, confidence, health )?
+* What might get in your way of meeting your goals?
+  * time
+  * resources
+  * knowledge
+  * confidence
+  * health
 
 ## Opportunities
 
 * What can you and I do to help overcome the obstacles?
-* What could we do to make your role
-more fulfilling?
+* What could we do to make your role more fulfilling?
 
 ## Decisions
 
