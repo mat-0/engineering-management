@@ -12,7 +12,7 @@ It seems counterintuitive that spending time will free up time, but that’s exa
 
 Beyond that, one on ones offer dedicated time for mentoring and coaching. Taking this opportunity to help guide your employees on their personalized path to success lets them know that they’re fully supported, which can contribute to a strong sense of belonging.
 
-While there is no single answer for how often you should have one on ones; what matters most is creating the cadence and honoring it consistently.
+While there is no single answer for how often you should have one on ones; what matters most is creating the cadence and honouring it consistently.
 
 ## Before the one on one meeting
 

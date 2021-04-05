@@ -41,20 +41,6 @@ A collection of resources be it tools, models, or exercises to support leadershi
 4. [Sprint review questions](/sprint-review-questions.md)
 5. (coming soon) [Communities of practice](/communities-of-practice.md)
 
-## Testing
-
-1. [Exploratory testing](/testing/testing-exploratory.md)
-2. (coming soon) [Automated testing](/testing/testing-automation.md)
-3. (coming soon) [Performance testing](/testing/testing-performance.md)
-4. (coming soon) [Accessibility testing](/testing/testing-accessibility.md)
-5. (coming soon) [Browser testing](/testing/testing-browser.md)
-6. (coming soon) [API testing](/testing/testing-api.md)
-7. (coming soon) [Black-box testing](/testing/testing-black-box.md)
-8. (coming soon) [White-box testing](/testing/testing-white-box.md)
-9. (coming soon) [User Interface testing](/testing/testing-ui.md)
-10. (coming soon) [Metrics](/testing/testing-metrics.md)
-11. (coming soon) [Tools](/testing/testing-tools.md)
-
 ## Technology Strategy
 
 1. [Mece lists](/strategy/mece.md)

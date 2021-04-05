@@ -1,14 +1,12 @@
 # Dora 4 Metrics
 
-> if you cannot measure it, you cannot improve it" - Petwe Drucker
-
+> if you cannot measure it, you cannot improve it" - Peter Drucker.
 
 ## DORA
 
-According to research elite high performing teams have 
-significantly higher count of code deployments, lead time is faster, recover faster, and have a lower failure rate.
+According to research elite high performing teams have significantly higher count of code deployments, lead time is faster, recover faster, and have a lower failure rate.
 
-### Throughput 
+### Throughput
 
 * Cycle time - less than one day
 * Deployment frequency - on-demand, many times per day
