@@ -1,4 +1,8 @@
-# Actionable insights:
+# Navigating difficult conversations at work
+
+[source](https://www.odgersinterim.com/uk/who-we-are/intelligence/we-need-to-talk-navigating-difficult-conversations-at-work-4969/)
+
+## Actionable insights:
 
 1. Preparation: Clear time. Twice. There will be tension. This is unavoidable. Following these guidelines will help reduce but not eliminate it. Clear time, if possible, some days beforehand to check you have all information you need and to anticipate and prepare for a range of possible reactions. Clear some time just before the meeting to center yourself, regulate your breathing, find a place of empathy and clarity about what is required.
 2. During the conversation: Let go of trying to control their reaction. The other person is entitled to their feelings. All you can control is your own delivery and the words you choose to use. A good technique for maintaining perspective is to imagine yourself in 3 months, or 3 years, looking back on this day and this meeting.  If the intensity becomes too much either for you or the other person/ people, it is often useful to call for a short break. Time to take some outside air, a walk around the block, can be useful in regaining balance and perspective. 
@@ -10,5 +14,3 @@
 8. Positivity: Leadership sets the tone. Your energy will be apparent always. Shift your stance to that of curiosity rather than blame. A ‘learning conversation’ is not a battle of messages. Starting from the Third Story, seek to understand the other person’s view, explain yours, try for a shared understanding. Speak from a place of positivity and concern, not just for the individual but also for the team and the wider organization for which you carry responsibility.
 9. Collaboration: One characteristic of a productive conversation is that you seek to navigate to a position where you invite the other person to collaborate with you in order to bring about the needed change. If it is a negotiation between two more or less equal parties, both with ‘red lines’, it is useful to regularly, and jointly, revisit the shared objective.
 10. Self-care: Imparting bad news such as a layoff, is troubling. The giver of the news frequently benefits from having someone else (a spouse, a trusted advisor or coach) to talk it through with before or after.
-
-[source](https://www.odgersinterim.com/uk/who-we-are/intelligence/we-need-to-talk-navigating-difficult-conversations-at-work-4969/)
