@@ -34,6 +34,7 @@ A collection of resources be it tools, models, or exercises to support leadershi
 3. [Leadership is Language](/leadership-is-language.md)
 4. [Four habits that derail listening](/four-listening.md)
 5. [Radical Candor](/radical-candor.md)
+6. [Difficult Conversations](/difficult-conversations.md)
 
 ## Scrum
 

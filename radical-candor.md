@@ -4,6 +4,8 @@
 
 Radical Candor is Caring Personally while Challenging Directly. At its core it is guidance and feedback that is both kind and clear whilst specific and sincere.
 
+![Radical Candor two by two image](/images/radical-candor.png)
+
 What it is not...
 
 ## Obnoxious Aggression
