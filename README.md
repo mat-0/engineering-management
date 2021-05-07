@@ -14,7 +14,7 @@ A collection of resources be it tools, models, or exercises to support leadershi
 6. [Four stages of competence](/four-stages-of-competence.md)
 7. [Good one-to-one template](/good-one-to-one-template.md)
 8. [Johari window](/johari-window.md)
-9. [Key Capabilities of high performing teams](/key-capabilities-high-perfoming-teams.md)
+9. [Key Capabilities of high performing teams](/key-capabilities-high-performing-teams.md)
 10. [Monkey management](/monkey-management.md)
 11. [One minute manager meets the monkey](/one-minute-manager-meets-the-monkey.md)
 12. [One to one Checklist](one-to-one-checklist.md)
