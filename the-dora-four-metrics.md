@@ -16,7 +16,6 @@ According to research elite high performing teams have significantly higher coun
 * Failure rate - 0-15%
 * Time to restore - less than one hour
 
-
 ## Definitions
 
 ### Lead Time

@@ -43,6 +43,10 @@ A collection of resources be it tools, models, or exercises to support leadershi
 3. [Overview of scrum](/scrum-overview.md)
 4. [Sprint review questions](/sprint-review-questions.md)
 
+## Metrics
+
+1. [Dora 4 Metrics](/the-dora-four-metrics.md)
+
 ## Technology Strategy
 
 1. [Mece lists](/strategy/mece.md)
