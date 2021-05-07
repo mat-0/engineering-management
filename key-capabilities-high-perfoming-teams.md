@@ -1,6 +1,5 @@
 # Key Capabilities
 
-
 Capabilities that drive improvement, according to research in 2017 - leading to the publication of the book Accelerate.
 
 24 key capabilities were identified and can be grouped in to five categories.
