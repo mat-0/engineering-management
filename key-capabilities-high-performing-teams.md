@@ -38,7 +38,7 @@ Capabilities that drive improvement, according to research in 2017 - leading to 
 ## Cultural
 
 20. Westrum organisational culture
-21. supporting learning
+21. Supporting learning
 22. Collaboration among teams
 23. Job satisfaction
 24. Transformation leadership
