@@ -4,7 +4,7 @@ Capabilities that drive improvement, according to research in 2017 - leading to 
 
 24 key capabilities were identified and can be grouped in to five categories.
 
-## Continuos Delivery
+## Continouos Delivery
 
 1. Version control
 2. Deployment automation
