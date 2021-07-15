@@ -20,12 +20,13 @@ A collection of resources be it tools, models, or exercises to support leadershi
 12. [One to one Checklist](one-to-one-checklist.md)
 13. [One to one - first meeting](/one-to-one-first-meeting.md)
 14. [Pestle analysis](/pestle-analysis.md)
-15. [Seven coaching questions](/seven-coaching-questions.md)
-16. [Smart objectives](/smart-objectives.md)
-17. [Smart questions](/smart-questions.md)
-18. [Swot analysis](/swot-analysis.md)
-19. [Ten key attributes of a manager](/ten-key-attributes-of-a-manager.md)
-20. [Wheel of life](/wheel-of-life.md)
+15. [SBIR Framework for giving positive feedback](/sbir-feedback-model.md)
+16. [Seven coaching questions](/seven-coaching-questions.md)
+17. [Smart objectives](/smart-objectives.md)
+18. [Smart questions](/smart-questions.md)
+19. [Swot analysis](/swot-analysis.md)
+20. [Ten key attributes of a manager](/ten-key-attributes-of-a-manager.md)
+21. [Wheel of life](/wheel-of-life.md)
 
 ## Communications and Feedback
 
