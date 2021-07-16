@@ -27,7 +27,7 @@ A collection of resources be it tools, models, or exercises to support leadershi
 - [Resilient Management](/resilient-management.md)
 - [SBIR Framework for giving positive feedback](/sbir-feedback-model.md)
 - [Seven coaching questions](/seven-coaching-questions.md)
-- [Six conversations of a manager](/six-conversations-of-a-manager.md)
+- [Six conversations of a brilliant manager](/six-conversations-of-a-brilliant-manager.md)
 - [Smart objectives](/smart-objectives.md)
 - [Smart questions](/smart-questions.md)
 - [Swot analysis](/swot-analysis.md)
