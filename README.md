@@ -23,9 +23,8 @@ A collection of resources be it tools, models, or exercises to support leadershi
 - [Personal Kanban](/personal-kanban.md)
 - [Pestle analysis](/pestle-analysis.md)
 - [Phoenix project](/phoenix-project.md)
-- [PRACTICE coaching model](/practice-coaching-model.md)
+- [PRACTICE coaching methodl](/practice-coaching-method.md)
 - [Resilient Management](/resilient-management.md)
-- [SBIR Framework for giving positive feedback](/sbir-feedback-model.md)
 - [Seven coaching questions](/seven-coaching-questions.md)
 - [Six conversations of a brilliant manager](/six-conversations-of-a-brilliant-manager.md)
 - [Smart objectives](/smart-objectives.md)
@@ -42,6 +41,7 @@ A collection of resources be it tools, models, or exercises to support leadershi
 - [Four habits that derail listening](/four-listening.md)
 - [Radical Candor](/radical-candor.md)
 - [Difficult Conversations](/difficult-conversations.md)
+- [SBIR Framework for giving positive feedback](/sbir-feedback-model.md)
 
 ## Scrum
 
