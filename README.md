@@ -16,6 +16,7 @@ A collection of resources be it tools, models, or exercises to support leadershi
 - [Good one-to-one template](/good-one-to-one-template.md)
 - [Johari window](/johari-window.md)
 - [Key Capabilities of high performing teams](/key-capabilities-high-performing-teams.md)
+- [Lean startup](/lean-startup.md)
 - [Manager's Path](/managers-path.md)
 - [Monkey management](/monkey-management.md)
 - [One minute manager meets the monkey](/one-minute-manager-meets-the-monkey.md)
