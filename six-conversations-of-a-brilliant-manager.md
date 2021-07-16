@@ -1,4 +1,4 @@
-# Six Conversations of a Manager?
+# Six Conversations of a Brilliant Manager?
 
 
 ## What can you do about that?
