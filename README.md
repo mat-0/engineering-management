@@ -6,6 +6,7 @@ A collection of resources be it tools, models, or exercises to support leadershi
 
 ## Contents
 
+- [BICEP core needs](/biceps.md)
 - [Drama Triangle](/drama-triangle.md)
 - [Dreyfus model](/dreyfus-model.md)
 - [Elegant Puzzle](/elegant-puzzle.md)
