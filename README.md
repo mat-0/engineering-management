@@ -58,7 +58,7 @@ A collection of resources be it tools, models, or exercises to support leadershi
 
 ## Metrics
 
-- [Dora 4 Metrics](/the-dora-four-metrics.md)
+- [Dora 4 Metrics for high performing teams](/the-dora-four-metrics.md)
 
 ## Technology Strategy
 
