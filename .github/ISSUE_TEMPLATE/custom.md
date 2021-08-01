@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Content Feature template
+about: Include the title and link of future sources
 title: ''
 labels: ''
 assignees: ''
