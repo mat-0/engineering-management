@@ -13,6 +13,7 @@ A collection of resources be it tools, models, or exercises to support leadershi
 - [Energy investment model](/energy-investment-model.md)
 - [Five minute coaching method](/five-minute-coaching-method.md)
 - [Five step coaching habit](/five-step-coaching-habit.md)
+- [Four fixations of a brilliant leader](/four-fixations-of-a-brilliant-leader.md)
 - [Four stages of competence](/four-stages-of-competence.md)
 - [Good one-to-one template](/good-one-to-one-template.md)
 - [Johari window](/johari-window.md)
