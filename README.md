@@ -1,4 +1,4 @@
-# People Leadership Documentation
+# Engineering Managment
 
 ![Leadership header image coffee mug with 'begin' written upon it](/images/danielle-macinnes-unsplash.jpg)
 
@@ -64,3 +64,10 @@ A collection of resources be it tools, models, or exercises to support leadershi
 
 - [Mece lists](/strategy/mece.md)
 - [Logic Trees](/strategy/logic-trees.md)
+
+## Videos / Playlists
+
+- [YouTube Playlist](https://youtube.com/playlist?list=PLDvuSbz8hX3HpiGM3lk-jZ80cM2c5TdMJ)
+
+
+
