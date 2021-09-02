@@ -47,7 +47,7 @@ Integrating security into the design and testing phases of the software developm
 
 CD is a development practice where software is in a deployable state throughout its lifecycle, and the team prioritizes keeping the software in a deployable state over working on new features. Fast feedback on the quality and deployability of the system is available to all team members, and when they get reports that the system isn’t deployable, fixes are made quickly. Finally, the system can be deployed to production or end users at any time, on demand. 
 
-## ARCHITECTURE CAPABILITIES
+## Architecture Capabilities
 
 9. Use a Loosely Coupled Architecture
 
@@ -57,7 +57,7 @@ This affects the extent to which a team can test and deploy their applications o
 
 Our research shows that teams that can choose which tools to use do better at continuous delivery and, in turn, drive better software development and delivery performance. No one knows better than practitioners what they need to be effective.
 
-## PRODUCT AND PROCESS CAPABILITIES
+## Product and Process Capabiltities
 
 11. Gather and Implement Customer Feedback
 
@@ -75,7 +75,7 @@ Teams should slice work into small pieces that can be completed in a week or les
 
 Team experimentation is the ability of developers to try out new ideas and create and update specifications during the development process, without requiring approval from outside of the team, which allows them to innovate quickly and create value. This is particularly impactful when combined with working in small batches, incorporating customer feedback, and making the flow of work visible.
 
-## LEAN MANAGEMENT AND MONITORING CAPABILITIES
+## Lean Management and Monitoring Capabilities
 
 15. Have a Lightweight Change Approval Processes
 
@@ -97,7 +97,7 @@ The use of work-in-process limits to manage the flow of work is well known in th
 
 Visual displays, such as dashboards or internal websites, used to monitor quality and work in process have been shown to contribute to software delivery performance. 
 
-## CULTURAL CAPABILITIES
+## Cultural Capabilities
 
 20. Support a Generative Culture
 
