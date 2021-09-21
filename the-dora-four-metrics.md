@@ -20,7 +20,7 @@ According to research elite high performing teams have significantly higher coun
 
 ### Lead Time
 
-the total elapses time from point when a user story enters the backlog. Until the time it is completed - including the time spent waiting in the backlog
+The total elapsed time from point when a user story enters the backlog. Until the time it is completed - including the time spent waiting in the backlog
 
 ### Cycle Time
 
