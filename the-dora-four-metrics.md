@@ -24,4 +24,4 @@ The total elapsed time from point when a user story enters the backlog. Until th
 
 ### Cycle Time
 
-Yhe time it takes for a story to go from being "in progress" to Done.
+The time it takes for a story to go from being "in progress" to Done.
