@@ -58,16 +58,16 @@ A collection of resources be it tools, models, or exercises to support leadershi
 
 ## Retrospectives
 
-- [Retrospective - according to the scrum guide](/Retrospective/retrospective-according-to-the-scrum-guide.md)
-- [warm-up - 20/20](/Retrospective/warm-up-20-20.md)
-- [warm-up - rubik's cube](/Retrospective/warm-up-rubiks-cube.md)
-- [warm-up - pride](/Retrospective/warm-up-pride.md)
-- [warm-up - no money](/Retrospective/warm-up-no-money.md)
-- [Ted Talk](/Retrospective/ted-talk.md)
-- [Lean Coffee](/Retrospective/lean-coffee.md)
-- [Renew your vows](/Retrospective/renew-your-vows.md)
-- [Story Time](/Retrospective/story-time.md)
-- [Slow down to improve](/Retrospective/slow-down-to-improve.md)
+- [Retrospective - according to the scrum guide](/Retrospectives/retrospective-according-to-the-scrum-guide.md)
+- [warm-up - 20/20](/Retrospectives/warm-up-20-20.md)
+- [warm-up - rubik's cube](/Retrospectives/warm-up-rubiks-cube.md)
+- [warm-up - pride](/Retrospectives/warm-up-pride.md)
+- [warm-up - no money](/Retrospectives/warm-up-no-money.md)
+- [Ted Talk](/Retrospectives/ted-talk.md)
+- [Lean Coffee](/Retrospectives/lean-coffee.md)
+- [Renew your vows](/Retrospectives/renew-your-vows.md)
+- [Story Time](/Retrospectives/story-time.md)
+- [Slow down to improve](/Retrospectives/slow-down-to-improve.md)
 
 
 ## Metrics
