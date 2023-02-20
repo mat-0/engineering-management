@@ -50,7 +50,7 @@ Follow up questions:
 - What was the expected outcome?
 - When will you know if the change has been successful?
 
-## What training or learning activity did you take into the sprint
+### What training or learning activity did you take into the sprint
 
 Follow up questions:
 
